@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadXml", "ReadXml\ReadXml.csproj", "{D1FDC90E-4C57-40EA-B9AE-D4A3FBB8D752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FDC90E-4C57-40EA-B9AE-D4A3FBB8D752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FDC90E-4C57-40EA-B9AE-D4A3FBB8D752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FDC90E-4C57-40EA-B9AE-D4A3FBB8D752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FDC90E-4C57-40EA-B9AE-D4A3FBB8D752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B112F6EC-841D-4A67-AE8F-D6A821DEAEBB}
+	EndGlobalSection
+EndGlobal
